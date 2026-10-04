@@ -52,16 +52,10 @@ This project is licensed under the MIT License.
 
 About Me
 
-Name: Sanjanaa S
+Name: Dev Saini
 
 Course: B.Tech Artificial Intelligence and Data Science
 
-College: Rajalakshmi Institute of Technology
+College: COER University
 
-Year: 3rd Year
-
-Email: sanjanaasrinivasan7@gmail.com
-
-LinkedIn: www.linkedin.com/in/sanjanaa-srinivasan-802ba5290
-
-GitHub: https://github.com/Sanjanaa7
+Year: 1st Year
